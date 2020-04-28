@@ -1,6 +1,6 @@
 # Catalan translations for Enigma2.
 #
-# Oriol Pellicer i Sabrià <angelo2807@hotmail.com>,2020.
+# Angel <angelo2807@hotmail.com>,2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
