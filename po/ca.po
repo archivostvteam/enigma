@@ -1,14 +1,14 @@
 # Catalan translations for Enigma2.
 #
-# Oriol Pellicer i Sabrià <oriol@elsud.org>, 2006, 2007.
+# Oriol Pellicer i Sabrià <angelo2807@hotmail.com>,2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-28 22:31+0100\n"
 "PO-Revision-Date: 2020-04-28 20:43+0200\n"
-"Last-Translator: Oriol Pellicer <oriol@elsud.org>\n"
-"Language-Team: angelodos angelo2807@hotmail.com\n"
+"Last-Translator: angelodos <angelo2807@hotmail.com>\n"
+"Language-Team:  angelo2807@hotmail.com\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
